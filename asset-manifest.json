@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "./static/css/main.b50e4c9c.css",
-    "main.js": "./static/js/main.28041c38.js",
+    "main.js": "./static/js/main.94b4c222.js",
     "static/media/profile.jpg": "./static/media/profile.15f1b021da11b368f178.jpg",
     "static/media/about2.jpg": "./static/media/about2.77d0d4ab63e1560388e6.jpg",
     "static/media/CV_Nguyen_Truong_Giang_ReactJS.pdf": "./static/media/CV_Nguyen_Truong_Giang_ReactJS.d4d4c534ca361512500c.pdf",
     "index.html": "./index.html",
     "main.b50e4c9c.css.map": "./static/css/main.b50e4c9c.css.map",
-    "main.28041c38.js.map": "./static/js/main.28041c38.js.map"
+    "main.94b4c222.js.map": "./static/js/main.94b4c222.js.map"
   },
   "entrypoints": [
     "static/css/main.b50e4c9c.css",
-    "static/js/main.28041c38.js"
+    "static/js/main.94b4c222.js"
   ]
 }
